@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Hello VS Git!!\n";
-    std::cout << "Hello new Branch!!\n";
+    std::cout << "Hello Pullrequest!!\n";
 
 }
 
